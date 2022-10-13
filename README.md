@@ -1,6 +1,6 @@
 # Start Jekyll
 
-A guide to getting started with Jekyll.
+A guide to getting started with Jekyll.This is me writing, Mara
 
 ### [Read the tutorial](https://taniarascia.com/make-a-static-website-with-jekyll) | [View the demo](http://taniarascia.github.io/startjekyll/)
 
