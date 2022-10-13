@@ -3,8 +3,8 @@ title: Start Jekyll
 email: oganianlab@posteo.de
 description: >
   A guide to getting started with Jekyll.
-baseurl: '/HVCLab.github.io'
-url: 'https://HVCLab.github.io'
+baseurl: ''
+url: 'http://HVCLab.github.io'
 twitter_username: yoganian
 github_username:  HVCLab
 # Build Settings
