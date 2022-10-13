@@ -1,12 +1,12 @@
 # Site Settings
 title: Start Jekyll
-email: taniarascia@gmail.com
+email: oganianlab@posteo.de
 description: >
   A guide to getting started with Jekyll.
 baseurl: "/startjekyll"
-url: "http://taniarascia.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
+url: "http://HVCLab.github.io"
+twitter_username: yoganian
+github_username:  HVCLab
 # Build Settings
 sass:
   sass_dir: _sass
