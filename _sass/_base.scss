@@ -1,13 +1,21 @@
 $content-width: 800px;
-$main: #19CCAA;
-$font-style: 'Open Sans', sans-serif;
-$font-color: #262626;
-$link-color: #425469;
-$link-hover-color: $main;
+// main font colour of title in block 
+$main: #000000;
+$font-style: 'Muli', sans-serif;
+// text colour
+$font-color: #7A7A7A;
+$link-color: $main;
+$taskbar-font-color: $main;
+
+// if you hover over a link in the text, the font colour changes to
+$link-hover-color: #982C3A;
 $heading-font: 'Muli', sans-serif;
-$heading-font-color: #425469;
+
+// title of the text on the page below the coloured block
+$heading-font-color: $main;
 $light: #E7EDF4;
-$header:  #1D1425;
+// header is the task bar
+$header:  #fff;
 
 *,
 *::before,
@@ -16,3 +24,5 @@ $header:  #1D1425;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 } 
+
+// colours: university's red #982C3A, stormy blue: #31414B, yellow:  #e5cc00, grey: #7A7A7A
