@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reaearch
+title: Research
 permalink: /research/
 ---
 # research goes here
