@@ -1,0 +1,78 @@
+- name: Dr. Yulia Oganian
+  is_pi: True
+  is_current: True
+  position: Research Group Leader
+  scholar: https://scholar.google.com/citations?user=cet5dfgAAAAJ&hl=de&oi=ao
+  researchgate: https://www.researchgate.net/profile/Yulia-Oganian
+  github: https://github.com/yoganian
+  twitter: https://twitter.com/yoganian
+  bio: >
+    Yulia is a cognitive neuroscientist with interests in everything 
+    related to speech and language.
+    Prior to starting the lab in Tübingen, she worked as a postdoc at  
+    the University of California, San Francisco and got her PhD at the 
+    Freie Universitat and the Bernstein Center for Computational 
+    Neuroscience (BCCN) in Berlin.
+    Outside science Yulia studies trilingual language acquisition with 
+    her son and waits for him to walk well enough to explore the hiking 
+    trails around Tuebingen.
+    Yulia speaks Russian, German, Hebrew, and English in her day to day. 
+    She sometimes tries to speak Spanish and French, but mostly with little success.
+  photo: /images/team/yulia_oganian.jpg
+
+- name: Charlotte Mock
+  is_pi: False
+  is_current: True
+  position: PhD student
+  bio: >
+    Charlotte is a speech and language therapist turned cognitive scientist with
+     an interest in the neural underpinnings of multimodal language processing. 
+     After receiving her B.A. from the Ludwig-Maximilians University in Munich, 
+     Charlotte moved to Kaiserslautern and completed her M.Sc. in Cognitive Science 
+     at the Technical University. In February 2022, she joined the HVC lab as a 
+     PhD student. Charlotte is currently interested in temporal landmarks in the 
+     speech signal and plans on using electrophysiological as well as behavioral 
+     data in the future.
+    In her free time, she enjoys making lino prints and trying out new recipes. 
+    Charlotte speaks German and English, and is currently brushing up on her French.
+  photo: /images/team/charlotte_mock.jpg
+
+- name: Mara Wolter
+  is_pi: False
+  is_current: True
+  position: PhD Student
+  github: https://github.com/marakw
+  bio: >
+    Mara is a natural scientist with a focus on auditory neuroscience and electrophysiological 
+    signal processing. She started as a PhD candidate in the lab in February 2022. Mara completed 
+    her Bachelors in biological sciences at Goethe University Frankfurt, where she did research 
+    on the auditory system of bats. For her Masters, she specialized in interdisciplinary 
+    neuroscience at the same university. Her main interest lies in how the human auditory 
+    system integrates information over time, in particular how humans adjust to different 
+    speech rates. Outside of the lab, she enjoys jogging and singing/songwriting with her guitar. 
+    Mara speaks German, Luxembourgish, English and French, she also tries to wrap her head around 
+    Greek (amazing how every Greek sentence feels like a math formula!).
+  photo: /images/team/mara_wolter.jpg
+
+- name: Andrey Zyryanov
+  is_pi: False
+  is_current: True
+  position: Master student
+  bio: >
+    Andrey received a B.A. degree in Linguistics and an M.A. degree in Cognitive Neuroscience at 
+    the HSE University, Moscow, Russia. He has been using neuroimaging and stimulation methods in 
+    clinical populations to study the neuroanatomical substrates of language processing. In 2022, 
+    Andrey joined the HVC lab as a student of the 5-year M.Sc./Ph.D. program at the International 
+    Max Planck Research School: The Mechanisms of Mental Function and Dysfunction. His research aims 
+    to better understand the mechanisms that enable the mapping between the phonological and the 
+    lexical-semantic representations of words. In his free time, Andrey likes doing sports, with his 
+    favorite one being skiing. He speaks Russian and English.
+  photo: /images/team/andrey_zyryanov.jpg
+
+- name: Lea-Marie Tewald
+  is_pi: False
+  is_current: True
+  position: Medical Student
+  bio: >
+    Leas bio goes here.
+  photo: /images/team/placeholder.png
