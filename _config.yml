@@ -2,9 +2,9 @@
 # Site Settings
 title: Cognitive Neuroscience of Human Verbal Communication
 subtitle: Oganian Lab
+tabtitle: HVC Lab
 email: oganianlab@posteo.de
-description: >
-  A guide to getting started with Jekyll.
+description: 
 baseurl: ''
 url: 'http://HVCLab.github.io'
 twitter_username: yoganian
