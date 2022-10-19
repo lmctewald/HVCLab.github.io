@@ -1,5 +1,7 @@
+# config file changes only get applied after re-running jekyll
 # Site Settings
-title: HVC Lab
+title: Cognitive Neuroscience of Human Verbal Communication
+subtitle: Oganian Lab
 email: oganianlab@posteo.de
 description: >
   A guide to getting started with Jekyll.

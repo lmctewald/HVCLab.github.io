@@ -4,8 +4,8 @@ $main: #000000;
 $font-style: 'Muli', sans-serif;
 // text colour
 $font-color: #7A7A7A;
-$link-color: $main;
-$taskbar-font-color: $main;
+$link-color: $font-color;
+$taskbar-font-color: $font-color;
 
 // if you hover over a link in the text, the font colour changes to
 $link-hover-color: #982C3A;
@@ -14,6 +14,7 @@ $heading-font: 'Muli', sans-serif;
 // title of the text on the page below the coloured block
 $heading-font-color: $main;
 $light: #E7EDF4;
+
 // header is the task bar
 $header:  #fff;
 

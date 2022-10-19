@@ -1,12 +1,13 @@
 # Site Settings
-title: HVC Lab
-email: taniarascia@gmail.com
+title: Cognitive Neuroscience of Human Verbal Communication
+subtitle: Oganian Lab
+email: oganianlab@posteo.de
 description: >
   A guide to getting started with Jekyll.
 baseurl: ''
 url: 'http://localhost:4000'
-twitter_username: taniarascia
-github_username:  taniarascia
+twitter_username: yoganian
+github_username:  HVCLab
 # Build Settings
 sass:
   sass_dir: _sass
