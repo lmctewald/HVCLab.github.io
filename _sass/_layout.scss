@@ -123,3 +123,18 @@ footer {
 	text-align: center;
 	padding: 40px;
 }
+
+input[type='text'],
+textarea[type='text'] {  
+	font-family: $font-style;
+	font-size: 0.9em;
+	line-height: 1.6;
+	width: 70%;
+}
+
+input[type='submit']{
+	font-family: $font-style;
+	font-size: 1.5em;
+	line-height: 1.6;
+	width: 10%;
+}

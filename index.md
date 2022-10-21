@@ -5,9 +5,9 @@ layout: default
 <h2>Welcome to the HVC Lab!</h2>
 We are a small research group studying the cognitive and neural mechanisms that support language comprehension and verbal communication.
 <br/><br/>
- We use behavioural and electrophysiological (MEG, (intracranial) EEG) measures in humans.
+We use behavioural and electrophysiological (MEG, (intracranial) EEG) measures in humans.
 <br/><br/>
-We are located at the Center for Integrative Neuroscience, Tübingen.
+We are located at the Centre for Integrative Neuroscience, Tübingen, Germany.
 <br/><br/>
 
 
