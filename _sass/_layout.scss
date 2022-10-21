@@ -18,7 +18,6 @@ h4 {
 h1 {
 	color: $main;
 	font-size: 2.0em;
-	font-weight: bold;
 	text-align: left;
 
 	a,
@@ -48,16 +47,7 @@ a:hover {
 	color: $link-hover-color;
 	text-decoration: underline;
 }
-header {
-	background: #982C3A; // colour of block
-	padding: 0px 15px;
-	text-align: center;
-	margin: 50px 0 0;
-	height: 10vh;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
+
 main {
 	padding: 0 15px;
 	max-width: $content-width;
