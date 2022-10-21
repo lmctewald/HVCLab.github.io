@@ -5,26 +5,26 @@
 <h3>{% if member.position %}{{ member.position }}{% endif %}</h3>
 
 {% if member.photo %}
-    <img class="float-left member-photo" src="{{ member.photo | prepend: site.images_dir | prepend: site.baseurl }}" width=auto height="300">
+    <img class="float-left member-photo" src="{{ member.photo | prepend: site.images_dir | prepend: site.baseurl }}" width=auto height="250">
 {% endif %}
 
 
 <p>{{ member.bio }}</p>
 
-{% if member.orcid %}
-    <a href="{{ member.orcid}}"><img src="/images/team/orcid.png" width="50" height="50"/></a>
-{% endif %}
 {% if member.scholar %}
-<a href="{{ member.scholar}}"><img src="/images/team/scholar.png" width="60" height="60"/></a>
+<a href="{{member.scholar}}"><img src="/images/design/social_media_icons/scholar.png" width="40" height="40"/></a>
 {% endif %}
 {% if member.researchgate %}
-<a href="{{ member.researchgate}}"><img src="/images/team/researchgate.png" width="60" height="60"/></a>
+<a href="{{member.researchgate}}"><img src="/images/design/social_media_icons/researchgate.jpg" width="40" height="40"/></a>
 {% endif %}
 {% if member.github %}
-<a href="{{ member.github}}"><img src="/images/team/github.jpg" width="55" height="55"/></a>
+<a href="{{ member.github}}"><img src="/images/design/social_media_icons/github.jpg" width="40" height="40"/></a>
 {% endif %}
 {% if member.twitter %}
-<a href="{{member.twitter}}"><img src="/images/team/twitter.png" width="55" height="55"/></a>
+<a href="{{member.twitter}}"><img src="/images/design/social_media_icons/twitter.png" width="40" height="40"/></a>
+{% endif %}
+{% if member.linkedin %}
+<a href="{{member.linkedin}}"><img src="/images/design/social_media_icons/linkedin.png" width="40" height="40"/></a>
 {% endif %}
 
 

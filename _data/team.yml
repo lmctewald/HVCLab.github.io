@@ -23,6 +23,9 @@
 - name: Charlotte Mock
   is_pi: False
   is_current: True
+  github: https://github.com/charlottemock
+  twitter: https://twitter.com/_charlottemock
+  linkedin: https://www.linkedin.com/in/charlotte-m-mock/ 
   position: PhD student
   bio: >
     Charlotte is a speech and language therapist turned cognitive scientist with
@@ -42,6 +45,7 @@
   is_current: True
   position: PhD Student
   github: https://github.com/marakw
+  linkedin: https://www.linkedin.com/in/marawolter/
   bio: >
     Mara is a natural scientist with a focus on auditory neuroscience and electrophysiological 
     signal processing. She started as a PhD candidate in the lab in February 2022. Mara completed 
@@ -74,5 +78,5 @@
   is_current: True
   position: Medical Student
   bio: >
-    Leas bio goes here.
-  photo: /images/design/logo_circle_white_background.svg
+    No bio added yet.
+  photo: /images/design/our_logo/logo_circle_white_background.svg
