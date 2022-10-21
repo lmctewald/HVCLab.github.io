@@ -3,11 +3,11 @@ layout: default
 ---
 
 <h2>Welcome to the HVC Lab!</h2>
-We are a small research group studying the cognitive and neural mechanisms that support language comprehension and verbal communication.
+Starting out in November 2021, we are a growing research group studying the cognitive and neural mechanisms that support language comprehension and verbal communication.
 <br/><br/>
 We use behavioural and electrophysiological (MEG, (intracranial) EEG) measures in humans.
 <br/><br/>
-We are located at the Centre for Integrative Neuroscience, Tübingen, Germany.
+We are located in the Centre for Integrative Neuroscience, Tübingen, Germany.
 <br/><br/>
 
 

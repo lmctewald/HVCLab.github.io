@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 **Our address:** <br>
-We are located at the entrance floor of the CIN building (3rd floor).<br>
+We are located on the entrance floor of the CIN building (3rd floor).<br>
 
 *Human Verbal Communication Lab* <br>
 *c/o Dr. Yulia Oganian* <br>
